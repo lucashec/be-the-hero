@@ -38,12 +38,11 @@ react-native start
 ### Telas
 
 <p align="center">
-    <img src="./screens/img1.png">
-    <img src="./screens/img2.png">
-    <img src="./screens/img3.png">
-    <img src="./screens/img4.png">
-    <img src="./screens/img4.png">
-    <img src="./screens/img5.png">
-    <img src="./screens/img6.png">
-    <img src="./screens/img7.png">
+    <img src="https://github.com/lucashec/be-the-hero/blob/master/screens/img1.png?raw=true">
+    <img src="https://github.com/lucashec/be-the-hero/blob/master/screens/img2.png?raw=true">
+    <img src="https://github.com/lucashec/be-the-hero/blob/master/screens/img3.png?raw=true">
+    <img src="https://github.com/lucashec/be-the-hero/blob/master/screens/img4.png?raw=true">
+    <img src="https://github.com/lucashec/be-the-hero/blob/master/screens/img5.png?raw=true">
+    <img src="https://github.com/lucashec/be-the-hero/blob/master/screens/img6.png?raw=true">
+    <img src="https://github.com/lucashec/be-the-hero/blob/master/screens/img7.png?raw=true">
 </p>
